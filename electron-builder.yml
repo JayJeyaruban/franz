@@ -9,6 +9,7 @@ compression: maximum
 mac:
   category: public.app-category.productivity
   icon: ./build-helpers/images/icon.icns
+  target: dmg
 
 dmg:
   background: ./build-helpers/images/dmgInstaller.tiff
